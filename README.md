@@ -1,4 +1,4 @@
-# chocolate-sales-performance-dashboard
+# Chocolate-sales-performance-dashboard
 # Project Objective
 The objective of this dashboard is to provide a comprehensive and interactive visualization of chocolate sales performance across multiple dimensions, enabling stakeholders to monitor business growth, identify top-performing products, salespersons, and regions, and make data-driven decisions.
 # Dataset Used
